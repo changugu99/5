@@ -1,6 +1,6 @@
 # 변수 선언
-name = "Alice"
-age = 25
+name = "leechankyu"
+age = 20
 score = 95.5
 
 # 1. 기본 출력
@@ -48,3 +48,7 @@ Score: {score}
 print("hello, first commit")
 print("this is second commit test")
 
+이 줄은 두 번째 커밋 테스트입니다.
+print("hello, first commit")
+print("this is second commit test")
+print("this is third commit test")
