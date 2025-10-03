@@ -1,0 +1,11 @@
+# 파일
+main_print_v1.opynb
+*.avi
+
+
+
+
+
+# 폴더
+venv/
+.vscode/
